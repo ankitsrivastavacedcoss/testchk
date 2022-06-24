@@ -1,4 +1,5 @@
 <?php
+test222
 $resultCollection = $block->getConfigurableProductValue();
 $getTrId = $block->getTrId();
 $productId = $block->getProductId();
